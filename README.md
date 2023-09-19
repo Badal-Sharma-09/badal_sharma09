@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @badalsharma09
+- 👋 Hi, I’m Badal Sharma
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently a web3 auditor
 - 💞️ I’m looking to collaborate on ...
